@@ -10,3 +10,4 @@ black==21.9b0
 flake8-black
 mypy
 types-setuptools
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
